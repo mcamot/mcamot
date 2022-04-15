@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcamot
-- 👀 I’m interested in Developing Backend Databases
+- 👀 I’m interested in Developing Backend ,Developing Databases
 - 🌱 I’m currently learning Javascript Mid
 - 💞️ I’m looking to collaborate on ...
 
